@@ -1,0 +1,26 @@
+DHRUVAM BHALODIYA
+
+Web Browser: A web browser is a software application that allows users to access and view websites on the internet. Examples include Chrome, Firefox, Safari, and Edge.
+
+Web Server: A web server is software that stores, processes, and delivers web pages to users' browsers. It responds to requests from browsers, serving the requested web pages. Examples include Apache, Nginx, and Microsoft IIS.
+
+Protocol: In the context of the internet, a protocol is a set of rules defining how data is transmitted and received. Examples include HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure).
+
+SEO (Search Engine Optimization): SEO is the practice of optimizing websites to rank higher on search engine results pages. It involves various strategies to improve a site's visibility and relevance to search engines.
+
+URL (Uniform Resource Locator): A URL is the web address used to access resources on the internet. It typically includes the protocol (e.g., http:// or https://) followed by the domain name and path.
+Absolute URL: https://www.example.com/blog/article
+
+Relative URL: /images/picture.jpg
+
+In this example:
+
+The absolute URL (https://www.example.com/blog/article) is the complete address specifying the location of the webpage.
+
+The relative URL (/images/picture.jpg) is relative to the base URL of the webpage. It indicates that the image is located within the "images" directory of the current website. The complete URL would be https://www.example.com/images/picture.jpg when combined with the base URL.
+
+Local SEO: Local SEO focuses on optimizing a business's online presence for local searches. It involves strategies to improve visibility in local search results, often important for businesses serving a specific geographic area.
+
+HTTP (Hypertext Transfer Protocol): HTTP is a protocol for transferring hypertext (linked) documents on the web. It is the foundation of any data exchange on the Web and is not secure by itself.
+
+HTTPS (Hypertext Transfer Protocol Secure): HTTPS is a secure version of HTTP. It encrypts data during transmission, providing a secure connection between a user's browser and the website. It is essential for securing sensitive information like login credentials and payment details.
